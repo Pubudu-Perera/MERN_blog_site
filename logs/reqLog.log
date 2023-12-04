@@ -1,3 +1,15 @@
 
 20231127	23:45:58	55022bd6-526f-40be-9837-4505219b1b61	GET	/index	undefined
 20231127	23:45:59	e99cf5e2-5cb2-4072-9cd6-9a4ea5051f99	GET	/public/CSS/style.css	undefined
+20231203	14:02:37	54efa034-d5c9-4089-8ef9-224066803c36	GET	/users	undefined
+20231203	14:07:12	547cde0e-0994-4ee2-b9e9-70450cd5b7e8	POST	/users	undefined
+20231203	14:14:13	fc8a97dd-0ff6-4c8f-b89c-d2466c35298f	POST	/users	undefined
+20231203	14:15:00	abb42ec4-145e-4513-9e58-b7d09df60400	POST	/users	undefined
+20231203	14:24:11	e19fe650-b95b-4b47-b4f5-cdefbf9d6446	GET	/users	undefined
+20231203	14:31:38	24cfa18b-0638-4e66-bced-a3c4fb8563bd	GET	/users	undefined
+20231203	14:34:34	991a2e00-8490-43a7-a7d5-f39d333b6a73	POST	/users	undefined
+20231204	11:34:55	71f551e5-c911-47d3-82d6-3b2730f8eee8	GET	/users	undefined
+20231204	11:36:10	3cbf3c49-51b6-434f-bf85-47458dd0db0b	PUT	/users	undefined
+20231204	11:38:37	741aa979-c9e9-4923-8961-ea577ca3c2f7	PUT	/users	undefined
+20231204	11:39:52	9e0326b3-3e12-40c1-b142-892d2ef0ce97	PUT	/users	undefined
+20231204	11:59:32	694b1856-8811-4c8e-bd9e-36a1984e4fbd	DELETE	/users	undefined

@@ -27,6 +27,8 @@ app.use('/', express.static(path.join(__dirname,'public','CSS')));
 
 app.use("/", require('./routes/root'));
 
+app.use("/users", require('./routes/userRoutes'));
+
 app.all('*',(req,res) => {
     res.status(404);
     if (req.accepts('html')) {
@@ -38,7 +40,7 @@ app.all('*',(req,res) => {
     }
 });
 
-app.use(errorHandler);
+app.use(errorHandler);     
 
 mongoose.connection.once('open',() => {
     console.log("Connected to MongoDB");
